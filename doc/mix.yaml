@@ -25,7 +25,7 @@ layers:
   - O
   - P
   - \
-  - CAPS
+  - LCTRL
   - A
   - S
   - D
@@ -36,7 +36,7 @@ layers:
   - K
   - L
   - ;
-  - ''''
+  - ENTER
   - LSHFT
   - Z
   - X
@@ -50,14 +50,14 @@ layers:
   - /
   - RSHFT
   - LCTRL
-  - MUTE
+  - LEFT GUI
   - LEFT ALT
-  - LGUI
+  - '`'
   - layer 1
   - SPACE
-  - ENTER
+  - SPACE
   - layer 2
-  - LEFT WIN
+  - ''''
   - RIGHT ALT
   - {t: SPACE, h: Buleth}
   - RCTRL
